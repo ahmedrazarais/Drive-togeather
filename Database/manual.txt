@@ -1,0 +1,29 @@
+        Welcome To The Raza's Transportation system
+
+
+For Customers Guide:
+1. First You Need To Sign Up For Using Our Services.
+2. After Sign Up You Can Login And Use Our Services.
+3. You Can Book A Vehicle For Your Desired Days.
+4. You Can View Your Previous Booking History.
+5. You Can Exit From Program.
+
+
+For Members Guide:
+1. First You Need To Sign Up For Using Our Services.
+2. After Sign Up You Can Login And Use Our Services.
+3. You Can Share Your Vehicle For Booking.
+4. You Can View All Your Vehicles That You set for Booking.
+5. You Can Update Your Vehicles Information.
+6. You Can Exit From Program.
+
+
+For Admin Guide:
+1. You Can Login And Use Our Services.
+3. You Can View All Users Information.
+4. You Can View All Vehicles Information.
+5. You Can Update Users Information.
+6. You Can Update Vehicles Information.
+7. You Can Exit From Program.
+
+
